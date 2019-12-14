@@ -3,3 +3,6 @@
 
 #log files
 *.log
+
+#media
+*.mp3
